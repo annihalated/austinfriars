@@ -8,7 +8,6 @@
   HUGO_VERSION = "0.146.5"
 
 [[plugins]]
-  package = "netlify-plugin-cypress"
 
   [plugins.inputs.postBuild]
     enable = true

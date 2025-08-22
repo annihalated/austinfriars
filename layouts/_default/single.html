@@ -1,0 +1,21 @@
+{{ define "title" }}{{ .Title }} - nihalsahu.net{{ end }}
+{{ define "og-title" }}{{ .Title }}{{ end }}
+{{ define "description" }}{{ .Params.description | default .Summary }}{{ end }}
+
+{{ define "main" }}
+<article>
+    <a href="/">Return to homepage</a>
+
+  <header>
+    <h1>{{ .Title }}</h1>
+    <!-- {{ if .Params.description }} -->
+    <!-- <p class="description">{{ .Params.description }}</p> -->
+    <!-- {{ end }} -->
+    <!-- <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time> -->
+  </header>
+  
+  <div class="content">
+    {{ .Content }}
+  </div>
+</article>
+{{ end }}

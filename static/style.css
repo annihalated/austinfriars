@@ -1,0 +1,186 @@
+:root {
+  --paragraph-font-family: Georgia, serif;
+  --base-font-size: 18px;
+  --dark-background-color: #222;
+  --dark-text-color: #DDDDDD;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: var(--paragraph-font-family); 
+  max-width: 640px;
+  min-width: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
+  margin: 0 auto;
+  font-size: var(--base-font-size);
+  margin-top: 1rem;
+  padding: 0.9em;
+  padding-bottom: 50px;
+}
+
+p {
+  line-height: 1.5;
+}
+
+small {
+  font-size: smaller;
+}
+
+blockquote p, blockquote li {
+  line-height: 1.35;
+}
+
+img {
+  max-height: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
+}
+
+figcaption {
+  text-align: center;
+  margin: 5px 0 0;
+  font-style: italic;
+  font-size: smaller;
+}
+
+.footnotes {
+  font-size: smaller;
+}
+
+.footnotes p, .footnotes li {
+  line-height: 140%;
+}
+ol {
+  list-style: decimal;
+}
+ul {
+  list-style: disc;
+}
+ol, ul {
+  padding: 0;
+  margin-left: 1.5em;
+}
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+}
+p { 
+  margin: 10px 0 10px;
+}
+/* Heading Sizes */
+
+#site-title {
+  font-size: 1.8em;
+  margin: 15px 0 10px;
+}
+
+
+h1 {
+  font-size: 2.4em;
+  margin: 30px 0 15px;
+}
+
+
+h2 {
+  font-size: 1.4em;
+  margin: 17px 0 10px;
+}
+
+h3 {
+  font-size: .9em;
+  margin: 15px 0 5px;
+}
+
+.essay h2 {
+  margin: 15px 0 0px;
+}
+
+h1, h2, h3 {
+  font-family: Helvetica, Arial, sans-serif; 
+}
+
+ul, li {
+  padding: 0;
+  margin-top: 0.7rem;
+}
+
+a, a:visited {
+  color: #2255CC;
+  text-decoration: none;
+  border-bottom: 1px dotted #222;
+  margin-bottom: -1px;
+}
+#home p {
+  margin-top: 5px;
+}
+#home a, #home a:visited {
+  color: #222222;
+}
+
+/* Quotes */
+blockquote {
+  margin-right: 2em;
+  margin-left: .6em;
+  border-left: 2px solid #ccc;
+  padding-left: .8em;
+  font-size: .9em;
+}
+
+/* Code blocks */
+pre { 
+  white-space: pre-wrap; 
+  margin-left: 1em;
+}
+
+hr {
+  display: block;
+  text-align: center;
+  margin: 25px auto;
+  width: 100%;
+  border: none;
+}
+
+hr:after {
+  content: "\2042";
+  font-size: 1em;
+}
+
+footer p {
+  text-align: right;
+  font-size: 0.8rem;
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--dark-background-color);
+    color: var(--dark-text-color);
+  }
+  a, a:visited{
+    text-decoration: none;
+    color: #6699EE;
+    border-bottom: 1px dotted #47e;
+    margin-bottom: -2px;
+  }
+  #home a, #home a:visited {
+    color: var(--dark-text-color);
+    border-bottom: 1px dotted #bbb;
+    margin-bottom: -2px;
+  }
+
+  img.invert {
+    filter: invert(80%);
+  }
+}
+
+#home h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  opacity: 0.5;
+  margin: 30px 0 10px;
+}

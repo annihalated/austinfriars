@@ -1,0 +1,15 @@
+{{ define "main" }}
+<h1 id=site-title>Nihal Sahu</h1>
+
+<div id="home">
+  <p>I'm a Research Fellow at <a href="https://vidhilegalpolicy.in">Vidhi</a>. Most of the time, I'm <a href="/work/">working</a> on making Indian law and the legal system simpler, clearer, and more effective.</p>
+  
+  <h3>Posts</h3>
+  {{ range where .Site.RegularPages "Type" "post" }}
+    <div class="essay">
+    <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+    <p>{{ .Params.description }}</p>
+    </div>
+  {{ end }}
+</div>
+{{ end }}
