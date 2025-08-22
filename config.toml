@@ -1,4 +1,4 @@
-baseURL = "https://hugo-starter-site.netlify.app"
+baseURL = "/"
 languageCode = "en-us"
 title = "Hugo Starter Site"
 copyright = "Copyright: don't be a thief."
