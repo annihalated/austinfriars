@@ -65,11 +65,7 @@ ol, ul {
   padding: 0;
   margin-left: 1.5em;
 }
-@media screen and (max-width: 768px) {
-  body {
-    font-size: 15px;
-  }
-}
+
 p { 
   margin: 10px 0 10px;
 }
@@ -157,6 +153,77 @@ footer p {
   font-size: 0.8rem;
 }
 
+
+
+#home h3 {
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  opacity: 0.5;
+  margin: 30px 0 10px;
+}
+
+form.buttondown-form input[type=email] {
+  margin: 0 .3em;
+  outline: 0;
+  border: 0;
+  width: 14em;
+  padding: 0;
+  background: 0 0;
+  border-bottom: 1px dotted #ccc;
+  color: #b9b9b9;
+  border-bottom-color: #555;
+}
+
+form.buttondown-form input[type=submit] {
+  padding: 0;
+  background: none !important;
+  box-shadow: none;
+  color: #6699EE;
+  border-top: none;
+  border-left: none;
+
+  border-right: none;
+  border-bottom: none;
+  margin-bottom: -1px;
+  cursor: pointer;
+
+}
+
+@media screen and (max-width: 768px) {
+  body {
+    font-size: 15px;
+  }
+
+
+  form.buttondown-form input[type=email] {
+    display: block;
+    text-align: center;
+    outline: 0;
+    margin: 1em auto;
+    border: 0;
+    padding: 0;
+    background: 0 0;
+    border-bottom: 1px dotted #ccc;
+    color: #b9b9b9;
+    border-bottom-color: #555;
+  }
+
+  form.buttondown-form input[type=submit] {
+    padding: 0;
+    background: none !important;
+    box-shadow: none;
+    color: #6699EE;
+    border-top: none;
+    border-left: none;
+
+    border-right: none;
+    border-bottom: none;
+    margin-bottom: -1px;
+    cursor: pointer;
+
+  }
+}
+
 @media (prefers-color-scheme: dark) {
   body {
     background-color: var(--dark-background-color);
@@ -177,36 +244,4 @@ footer p {
   img.invert {
     filter: invert(80%);
   }
-}
-
-#home h3 {
-  text-transform: uppercase;
-  letter-spacing: 0.02em;
-  opacity: 0.5;
-  margin: 30px 0 10px;
-}
-
-form.buttondown-form input[type=email] {
-  margin: 0 .3em;
-  outline: 0;
-  border: 0;
-  padding: 0;
-  background: 0 0;
-  border-bottom: 1px dotted #ccc;
-  color: #b9b9b9;
-  border-bottom-color: #555;
-}
-
-form.buttondown-form input[type=submit] {
-  padding: 0;
-  background: none !important;
-  box-shadow: none;
-  color: #2255CC;
-  border-top: none;
-  border-left: none;
-  border-right: none;
-  border-bottom: 1px dotted #2255CC;
-  margin-bottom: -1px;
-  cursor: pointer;
-
 }
