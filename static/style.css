@@ -1,6 +1,6 @@
 :root {
   --paragraph-font-family: Georgia, serif;
-  --base-font-size: 17px;
+  --base-font-size: 18px;
   --dark-background-color: #222;
   --dark-text-color: #DDDDDD;
 }
@@ -76,8 +76,8 @@ p {
 /* Heading Sizes */
 
 #site-title {
-  font-size: 1.8em;
-  margin: 15px 0 29px;
+  font-size: 2em;
+  margin: 15px 0 25px;
 }
 
 
