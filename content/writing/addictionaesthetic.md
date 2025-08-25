@@ -1,7 +1,6 @@
 ---
 title: Addiction aesthetic
 date: 2020-04-01
-featured: true
 type: post
 url: /addictionaesthetic/
 description: "inescapable cultural presence • philosophizing addiction • economic rationalization • withdrawal's grip • aesthetic beauty of smoke • solitary moments made social • borrowed lights and shared silences"
