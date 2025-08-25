@@ -2,7 +2,7 @@
 title: I have a favourite band
 date: 2023-02-20
 url: /rks/
-type: post
+layout: post
 featured: true
 description: "literary earworms • finding identity • developing taste • rainbow kitten surprise • self-loathing"
 ---

@@ -1,7 +1,7 @@
 ---
 title: Against lawyer brain
 date: 2023-03-09
-type: post
+layout: post
 url: /againstlawyerbrain/
 featured: true
 description: "escaping formalism for substance • why legal training teaches you to avoid the real world • learning to form opinions under uncertainty • choosing outcomes over process • strong beliefs, loosely held"

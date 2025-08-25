@@ -2,7 +2,7 @@
 title: Tipping the odds
 date: 2022-10-24
 url: /tippingtheodds/
-type: post
+layout: post
 featured: true
 description: "economists and lawyers • the limits of interpretation • what is Law™"
 --- 

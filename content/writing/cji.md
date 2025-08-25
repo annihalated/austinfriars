@@ -1,7 +1,7 @@
 ---
 title: The Chief Justice's incentives
 date: 2022-11-28
-type: post
+layout: post
 url: /cji-incentives/
 description: "five levers of power • bully pulpit for signaling • master of the roster • collegium leadership • process innovation • judicial decision-making • structural tradeoffs between popularity and effectiveness • balancing judicial independence with executive cooperation"
 ---

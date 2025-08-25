@@ -1,7 +1,7 @@
 ---
 title: Wisconsin's weird partial veto (and other things)
 date: 2023-01-23
-type: post
+layout: post
 url: /reading-2023-01/
 ---
 

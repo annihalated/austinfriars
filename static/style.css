@@ -153,8 +153,45 @@ footer p {
   font-size: 0.8rem;
 }
 
-div.post-date, div.post-date time {
+.right {
   text-align: right;
+}
+
+.left {
+  text-align: left;
+}
+
+.center {
+  text-align: center;
+}
+
+.posts-container {
+  margin: 0 auto;
+  width: fit-content;
+}
+
+.quote-author {
+  text-align:right; 
+  padding-right: 2em;
+}
+.post {
+  display: flex;
+  justify-content: space-between;
+  gap: 3em;
+  align-items: baseline;
+}
+
+.post time {
+  width: 6em;
+  flex-shrink: 0;
+  text-align: right;
+}
+
+.post h3 {
+  margin: 0.8em 0;
+}
+
+time {
   font-size: 0.9em;
   letter-spacing: 0em;
   color: #777;

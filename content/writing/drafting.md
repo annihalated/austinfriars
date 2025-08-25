@@ -1,14 +1,14 @@
 ---
 title: Abstractions and drafting 
 url: /drafting/
-type: post
+layout: post
 date: 2025-03-30
 description: "similarities between law and code • structural issues in the drafting process • finding abstractions and constructing ontologies • plain language drafting • examples of great drafting"
 ---
 *This page is a work in progress. It is a 'growing' document and will expand as I collect ideas, links, and notes.*
 
 > When you are writing laws you are testing words to find their utmost power. Like spells, they have to make things happen in the real world, and like spells, they only work if people believe in them. 
-<small><p style="text-align:right; padding-right: 2em;">Hilary Mantel, Wolf Hall</p></small>
+<small><p class="quote-author">Hilary Mantel, Wolf Hall</p></small>
 
 Legislative drafting, like contract drafting or software engineering, is fundamentally a problem of constructing the correct [ontologies](https://en.wikipedia.org/wiki/Ontology_(information_science)).
 
@@ -26,7 +26,7 @@ As a drafter, your task is to find the correct abstractions, construct the corre
 ## Connections
 > Laws, like houses, lean on one another. 
 
-<small><p style="text-align:right; padding-right: 2em;">Edmund Burke</p></small>
+<small><p class="quote-author">Edmund Burke</p></small>
 
 If the drafting process fails, you will rightfully earn your place in the drafting [hall](https://blog.theleapjournal.org/2017/03/drafting-hall-of-shame-mistake-in.html) of [shame](https://blog.theleapjournal.org/2016/11/drafting-hall-of-shame-2-mistakes-in.html).
 

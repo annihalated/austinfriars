@@ -2,7 +2,7 @@
 title: Empathy
 url: /empathy/
 date: 2025-08-22
-type: post
+layout: post
 draft: true
 description: "on the nature of statecraft"
 ---

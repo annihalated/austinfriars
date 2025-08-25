@@ -1,7 +1,7 @@
 ---
 title: The Levine question
 date: 2022-10-31
-type: post
+layout: post
 url: /levine/
 description: "refusing reflexive judgment • charitable examination of motivations • understanding structural incentives • why people do what they do • evil is rarer than cynicism suggests"
 ---

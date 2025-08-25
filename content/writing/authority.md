@@ -1,7 +1,7 @@
 ---
 title: Authority
 date: 2024-05-06
-type: post
+layout: post
 url: /authority/
 featured: true
 description: "the development of modern states • statecraft has a technology tree • parliamentary democracy • separation of powers • rule of law"

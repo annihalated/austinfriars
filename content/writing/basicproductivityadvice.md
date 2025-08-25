@@ -1,7 +1,7 @@
 ---
 title: Extremely basic productivity advice
 date: 2022-11-28
-type: post
+layout: post
 url: /basicproductivityadvice/
 description: "do the right things by thinking hard about priorities • actually execute through focus and work sessions • treat your brain like a trainable dog • block distractions ruthlessly • use panic for necessary but stupid tasks • exercise and health matter too"
 ---

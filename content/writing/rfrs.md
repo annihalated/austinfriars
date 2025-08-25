@@ -1,7 +1,7 @@
 ---
 title: Religious freedom, reform, and secularism
 date: 2023-01-09
-type: post
+layout: post
 featured: true
 url: /rfrs/
 description: "Article 25 and the reform clause • protecting religious freedom while reforming practices • state control of Hindu temples • cognitive dissonance in Indian secularism • dynamic equilibrium between competing visions"

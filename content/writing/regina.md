@@ -4,7 +4,7 @@ date: 2022-09-11
 description: "notes on the death of Elizabeth II • legal realism • rule of law in India • the English roots of constitutional traditions"
 featured: true
 url: /regina/
-type: post
+layout: post
 ---
 
 *The desires of the heart are as crooked as corkscrews\

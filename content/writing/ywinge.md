@@ -1,7 +1,7 @@
 ---
 title: Your writing is not good enough
 date: 2023-02-14
-type: post
+layout: post
 url: /ywinge/
 featured: true
 description: "fear and writing • professional compromises • the erosion of caring • honest feedback • fighting mediocrity"

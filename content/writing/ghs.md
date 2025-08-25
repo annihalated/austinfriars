@@ -1,7 +1,7 @@
 ---
 title: Government health spending in India
 url: /ghs/
-type: post
+layout: post
 date: 2022-06-12
 description: "book review • the causes of low government spending • weak state capacity"
 ---

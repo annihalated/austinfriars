@@ -1,7 +1,7 @@
 ---
 title: "We can't ban branded drug prescriptions"
 url: /genericdrugs/
-type: post
+layout: post
 date: 2024-06-09
 description: "medical regulation in India • enforcement without infrastructure • regulatory capacity"
 ---

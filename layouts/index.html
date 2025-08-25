@@ -6,14 +6,15 @@
   <p>I'm a Research Fellow at <a href="https://vidhilegalpolicy.in">Vidhi</a>. Most of the time, I'm <a href="/work/">working</a> on building the rule of law in India by producing research, advising government departments, and helping draft legislation. I think a lot about legal realism, software, and economics.</p>
 
 
-
   <h3>Selected Writing</h3>
-  {{ range where (where .Site.RegularPages "Type" "post") "Params.featured" true }}
+  {{ range where (where .Site.RegularPages "Layout" "post") "Params.featured" true }}
     <div class="essay">
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Params.description }}</p>
     </div>
   {{ end }}
+
+  <p class="right"><a href="/writing/">Read more.</a></p>
 </div>
 
 

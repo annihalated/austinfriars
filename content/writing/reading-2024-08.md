@@ -1,7 +1,7 @@
 ---
 title: What I've been reading (July 2024)
 date: 2024-08-03
-type: post
+layout: post
 url: /reading-july-2024/
 ---
 

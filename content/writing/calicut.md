@@ -2,7 +2,7 @@
 title: On Calicut
 url: /calicut/
 date: 2025-04-11
-type: post
+layout: post
 description: "notes on my hometown"
 ---
 <img src="/img/calicut.png">

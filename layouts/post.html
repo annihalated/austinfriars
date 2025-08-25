@@ -4,11 +4,10 @@
 
 {{ define "main" }}
 <article>
- 
   <header>
-    <h1 id="site-title">{{ .Title }}</h1>
+    <h1>{{ .Title }}</h1>
       {{ if .Date }}
-    <div class="post-date">
+    <div class="right">
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>
     </div>
       {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: Martin Amis is dead
 date: 2023-05-29
-type: post
+layout: post
 url: /amis/
 description: "literature's resistance to levelling • the privilege of being a reader"
 ---

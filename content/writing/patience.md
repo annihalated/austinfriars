@@ -1,7 +1,7 @@
 ---
 title: Patience
 date: 2023-11-29
-type: post
+layout: post
 url: /patience/
 description: "Don’t do too many things at once. Do a few things, do them well, do them quickly. Finish things, one after the other, and move on."
 ---
