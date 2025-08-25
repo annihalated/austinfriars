@@ -1,6 +1,6 @@
 ---
-title: reach out
-url: /reachout/
+title: contact
+url: /contact/
 type: page
 ---
 
