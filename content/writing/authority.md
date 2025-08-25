@@ -3,6 +3,7 @@ title: Authority
 date: 2024-05-06
 type: post
 url: /authority/
+featured: true
 description: "the development of modern states • statecraft has a technology tree • parliamentary democracy • separation of powers • rule of law"
 ---
 Indians live, "fanatically at odds, with their different diets and their incompatible gods", between frontiers delineated by ragged lines on a map: the Line of Control, the Radcliffe Line, the Line of Actual Control, the Actual Ground Position Line in Siachen, the Durand Line. To speak of the Indian state is to legitimize an authority which can use force on all persons that live between the glacier and the ocean. It means accepting, in practice if not in theory, an authority that has executed guerillas, held cities hostage, crushed rebellions. The existence of a state indicates the existence of "a military power resting on force, so centralized, so necessarily heedless of the individual."[^1]

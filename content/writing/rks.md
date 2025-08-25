@@ -1,8 +1,9 @@
 ---
-title: I Have a Favourite Band
+title: I have a favourite band
 date: 2023-02-20
 url: /rks/
 type: post
+featured: true
 description: "literary earworms • finding identity • developing taste • rainbow kitten surprise • self-loathing"
 ---
 > *'But baby, you know me*\

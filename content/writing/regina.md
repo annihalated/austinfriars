@@ -1,7 +1,8 @@
 ---
-title: The Second Best is a Formal Order
+title: The second best is a formal order
 date: 2022-09-11
 description: "notes on the death of Elizabeth II • legal realism • rule of law in India • the English roots of constitutional traditions"
+featured: true
 url: /regina/
 type: post
 ---

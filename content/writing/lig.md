@@ -2,6 +2,7 @@
 title: Liberalism is gentleness
 date: 2025-04-19
 type: post
+featured: true
 url: /lig/
 description: "short • people have multidimensional preference sets • we love the ability to make choices"
 ---

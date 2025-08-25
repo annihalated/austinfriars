@@ -1,7 +1,8 @@
 ---
-title: Abstractions and Drafting 
+title: Abstractions and drafting 
 url: /drafting/
 type: post
+date: 2025-03-30
 description: "similarities between law and code • structural issues in the drafting process • finding abstractions and constructing ontologies • plain language drafting • examples of great drafting"
 ---
 *This page is a work in progress. It is a 'growing' document and will expand as I collect ideas, links, and notes.*

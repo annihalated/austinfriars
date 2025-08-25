@@ -1,5 +1,5 @@
 ---
-title: Government Health Spending in India
+title: Government health spending in India
 url: /ghs/
 type: post
 date: 2022-06-12

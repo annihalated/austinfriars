@@ -7,8 +7,8 @@
 
 
 
-  <h3>Writing</h3>
-  {{ range where .Site.RegularPages "Type" "post" }}
+  <h3>Selected Writing</h3>
+  {{ range where (where .Site.RegularPages "Type" "post") "Params.featured" true }}
     <div class="essay">
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Params.description }}</p>

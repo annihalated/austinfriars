@@ -1,14 +1,13 @@
 ---
-title: Tipping the Odds
+title: Tipping the odds
 date: 2022-10-24
 url: /tippingtheodds/
 type: post
+featured: true
 description: "economists and lawyers • the limits of interpretation • what is Law™"
 --- 
 
-Chinmay [wrote a while ago](https://reallifelaughtrack.wordpress.com/2022/06/05/capped-prices-and-the-cab-crisis/) about why it's difficult to get cabs in Bangalore using aggregator apps like Uber or Ola. He thinks that the problem started with the [Aggregator Guidelines](https://morth.nic.in/sites/default/files/notifications_document/Motor%20Vehicle%20Aggregators27112020150046.pdf) issued by the Central Government.
-
-(Let us, for a moment, not be nitpicky about the fact that Chinmay was talking about Bangalore, and that Karnataka's legislation, *[the Karnataka On-Demand Transportation Technology Aggregator Rules, 2016](https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Rules/59%20of%201988%20Central%20Rules%20(E).pdf)*, predates the Central Government guidelines.)
+Chinmay [wrote a while ago](https://reallifelaughtrack.wordpress.com/2022/06/05/capped-prices-and-the-cab-crisis/) about why it's difficult to get cabs in Bangalore using aggregator apps like Uber or Ola. He thinks that the problem started with the [Aggregator Guidelines](https://morth.nic.in/sites/default/files/notifications_document/Motor%20Vehicle%20Aggregators27112020150046.pdf) issued by the Central Government.[^1] 
 
  The Guidelines impose price controls on aggregator apps and allow for dynamic/surge pricing only up to 1.5x or 0.5x of the base fare. This corrupts the market mechanism, puts cabs out of business, and makes things worse for customers.
 
@@ -110,3 +109,5 @@ This little exchange caused me to have a *view quake* - a clear nine on the Ri
 As for Chinmay, which court he ends up in front of, what they think, and how they feel about cab aggregators and price controls is at least as important as the law in the statute book. 
 
 And anyway, who knows? He might get lucky and end up in front of a judge who has had trouble catching a cab in Bangalore.
+
+[^1]: Let us, for a moment, not be nitpicky about the fact that Chinmay was talking about Bangalore, and that Karnataka's legislation, *[the Karnataka On-Demand Transportation Technology Aggregator Rules, 2016](https://dpal.karnataka.gov.in/storage/pdf-files/Karnataka%20Rules/59%20of%201988%20Central%20Rules%20(E).pdf)*, predates the Central Government guidelines.
