@@ -23,8 +23,11 @@ The Chief Justice of India has many levers of power.
 CJIs have many priorities. Their legacies are defined by:
 
 1. Their general popularity at the time they leave office;
+
 2. Their contributions to the development of the law;
+
 3. Their ability to maintain the independence of the judiciary and keep a patchwork simulation of the rule of law going;
+
 4. Their administrative efforts, which are primarily directed towards two complementary goals, which are (a) the appointment of judges to fill the many vacancies in India's judiciary and (b) reducing the [gargantuan](https://theleaflet.in/the-debate-around-pendency-in-the-supreme-court-needs-a-dash-of-empiricism/) number of pending cases before the Supreme Court and the High Courts.
 
 (3) and (4) are somewhat contradictory. To appoint more judges, the Chief Justice needs the assistance of the executive. And when the Chief Justice writes judgments expanding the rights of citizens and constraining the powers of the state, the Executive is naturally annoyed.
