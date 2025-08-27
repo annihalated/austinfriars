@@ -1,9 +1,8 @@
 ---
-title: Tax cuts are the new price controls
+title: Tax cuts as price controls
 date: 2025-08-26
 layout: post
-draft: true
-url: /profiteering/
+url: /antiprofiteering/
 description: 
 ---
 
