@@ -41,5 +41,7 @@ But it is bad news, because it tells us that our effectiveness requires us to, a
 
 Researchers call this “acknowledging your positionality”—the social and political context of a researcher. We must start by acknowledging things. Yes, we come from extraordinarily privileged backgrounds. We are good expositors of the law and the public good. We are “exotic pieces of human capital.” But our inability to simultaneously empathise and be effective is an example of our human frailty. And we must act to overcome it, and acquire also the muddy strength to empathise with the richness of another life. 
 
+Empathy, however, does not mean self-abnegation or self-erasure. It is important to understand what you want and what your role is when you empathise. 
+
 <hr>
 
