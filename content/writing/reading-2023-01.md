@@ -27,9 +27,7 @@ h/t: [Judah](https://twitter.com/joodalooped)
 
 **[Pew, Religion in India: Tolerance and Segregation \(2021\).](https://www.pewresearch.org/religion/2021/06/29/religion-in-india-tolerance-and-segregation/)** Between late 2019 and early 2020, *Pew* conducted "nearly 30,000 face-to-face interviews of adults conducted in 17 languages" and asked them questions about religious freedom, diversity, pluralism, caste, national identity, practices, beliefs, clothing, and food. My favourite [lollapalooza](https://cmqinvesting.substack.com/p/the-charlie-munger-guide-to-lollapalooza) is the following image, from page seventeen, and I have adjusted some priors accordingly:
 
-<figure>
-<img class="invert" src="/img/pew.jpeg"/>
-</figure>
+![](/img/pew.jpeg "{invert}")
 
 **[The Caravan.](https://caravanmagazine.in/)** I've been reading some cover features from older issues of Caravan Magazine, and they are fantastically entertaining. I particularly like the profiles, and I'll recommend: *[The Argumentative Indian](https://caravanmagazine.in/reportage/argumentative-indian)* about Kapil Sibal; and *[Talk of the Town](https://caravanmagazine.in/reportage/talk-town)*, about Arun Jaitley.
 

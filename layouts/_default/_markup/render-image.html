@@ -1,0 +1,10 @@
+<figure>
+  <img 
+    src="{{ .Destination | absURL }}" 
+    alt="{{ .Text }}" 
+    class="{{ if in .Title "{invert}" }}invert{{ end }}">
+  {{- $title := replace .Title "{invert}" "" -}}
+  {{- if $title }}
+    <figcaption>{{ $title }}</figcaption>
+  {{- end }}
+</figure>

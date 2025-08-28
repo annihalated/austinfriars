@@ -18,5 +18,7 @@ taxonomies:
 markup:
   defaultMarkdownHandler: goldmark
   goldmark: 
+    parser: 
+      wrapStandAloneImageWithinParagraph: false
     renderer:
       unsafe: true

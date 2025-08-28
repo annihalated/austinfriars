@@ -6,10 +6,7 @@ featured: true
 description: "the lower limit on dispute resolution time • ai judges • slowness as legitimacy • dworkin's dream"
 url: /microlawsuits/
 ---
-<figure>
-<img class="invert" src="/img/microlawsuits.png"/>
-<figcaption>I wonder how BigLaw billing practices will adapt.</figcaption>
-</figure>
+![](/img/microlawsuits.png "{invert}I wonder how BigLaw billing practices will adapt")
 
 The speed at which a lawsuit is decided depends on the number of judges and their productivity. A judge is a scarce, treasured, exotic piece of human capital; a person who can speak with the voice of the common law. Judicial productivity has many factors: the raw efficiency of the judge; whether your court system is efficient; whether it is rigorous about timelines; whether it has integrity'; whether it is *competent*.[^1] You have faster courts if you have higher judicial output per capita.
 
