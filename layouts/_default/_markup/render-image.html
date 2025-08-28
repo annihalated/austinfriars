@@ -1,6 +1,6 @@
 <figure>
   <img 
-    src="{{ .Destination }}" 
+    src="{{ .Page.Permalink }}{{.Destination}}" 
     alt="{{ .Text }}" 
     class="{{ if in .Title "{invert}" }}invert{{ end }}">
   {{- $title := replace .Title "{invert}" "" -}}
