@@ -5,7 +5,7 @@ params:
   description: "Research Fellow at Vidhi working on making Indian law simpler, clearer, and more effective"
 
 
-baseURL: "/"
+baseURL: "https://nihalsahu.net"
 languageCode: "en-us"
 
 staticDir: "static"
