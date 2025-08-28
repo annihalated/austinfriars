@@ -37,7 +37,7 @@ Let's get back to Adam's case. It skips the principal-agent problem, because Ada
 
 ### 1) They are not evenly distributed
 
-![](/img/normal.png "{invert}A normal distribution")
+![](normal.png "{invert}A normal distribution")
 
 The natural distribution of interests produces guys who read Sartre at a coffee shop with a Marlboro Red hanging languorously from his lips more often than it produces people willing to work in trial courts. Our motivations and intrinsic interests are not always socially productive: playing Factorio, scrolling through Instagram, writing poetry about owls. I thought the point of incentives was to allocate ourselves to socially useful tasks, to transmute our interests in memorising anime trivia into computer programs and healthcare units.
 
@@ -71,7 +71,7 @@ Adam's people are devoted already, which means that, for some purposes, they lea
 
 Incentives have a role in getting a lot of people from "has interest in medicine because watches House MD" to "heart surgeon". A passing interest does not survive gruelling years of medical school or an aversion to cutting open human beings. This is where I cue in [Patrick McKenzie](https://x.com/patio11/status/1745337977591501009):
 
-![](/img/patio.png "{invert}")
+![](patio.png "{invert}")
 
 Are "interests" and "shared goals" enough to make someone stay in medical school? Is it enough to make them want to live in India's most deprived villages, where their patients are?
 
