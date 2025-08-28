@@ -5,8 +5,7 @@ date: 2025-04-11
 layout: post
 description: "notes on my hometown"
 ---
-
-![shipbuilding in calicut](/img/calicut.png)
+![shipbuilding in calicut](calicut.png)
 
 Calicut is ancient — an *entrepôt* for as long as there have been maps. The Malabar Manual (a colonial administrator’s guide to the region) says that we have a certain mercantile hardiness; we were shipbuilders and traders; stubborn realists. On Beach Road, you can still trace where the Portuguese and the French trading posts used to be. Calicut makes practically nothing of value today, but it has transitioned into being a sleepy city of world literature and literary criticism. Every year, you can come here to see Pamuk and Chomsky and Duflo and Guha and Mukundan and Claudel and everyone else you can think of. You can be poor here without being impoverished. 
 
