@@ -1,0 +1,5 @@
+# Minimal Hugo RSS config - add to hugo.yaml
+
+title: "Nihal Sahu"
+params:
+  description: "Research Fellow at Vidhi working on making Indian law simpler, clearer, and more effective"
