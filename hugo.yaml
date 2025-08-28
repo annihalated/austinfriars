@@ -4,10 +4,10 @@ title: "Nihal Sahu"
 params:
   description: "Research Fellow at Vidhi working on making Indian law simpler, clearer, and more effective"
 
+
 baseURL: "/"
 languageCode: "en-us"
 
-rssLimit: 40
 staticDir: "static"
 canonifyURLs: true
 
@@ -15,10 +15,6 @@ taxonomies:
   category: 'categories'
   tag: 'tags'
   
-params:
-
-  description: "A better starting point for building Hugo sites."
-
 markup:
   defaultMarkdownHandler: goldmark
   goldmark: 
