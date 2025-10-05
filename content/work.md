@@ -1,6 +1,12 @@
 ---
-title: "Work"
+title: "work"
 ---
+## Speaking
+
+- In 2024, I was [on a panel](https://youtu.be/0j6WzCjleG0) on euthanasia at the International Literature Festival of Kerala. 
+
+- In September 2025, I [spoke at DPHICON](https://www.youtube.com/live/Yi3rGbCZvrA?si=C6kU5q2Fzv4KzmcP&t=9560), which is Tamil Nadu's Annual International Public Health Conference. 
+
 
 ## Research
 
