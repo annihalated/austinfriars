@@ -241,6 +241,7 @@ div.bookshelf {
     gap: 1rem;
 }
 
+
 div.bookshelf .book {
     position: relative;
     aspect-ratio: 226/346;
@@ -283,6 +284,10 @@ div.bookshelf .book::after {
 @media screen and (max-width: 768px) {
   body {
     font-size: 16px;
+  }
+
+   div.bookshelf {
+    grid-template-columns: repeat(2, 1fr);
   }
 
 
