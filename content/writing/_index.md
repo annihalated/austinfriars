@@ -1,5 +1,5 @@
 ---
-title: 'Writing'
+title: 'writing'
 outputs: 
     html
     rss

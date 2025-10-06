@@ -1,0 +1,17 @@
+{{ define "title" }}{{ .Title }} - nihalsahu.net{{ end }}
+{{ define "og-title" }}{{ .Title }}{{ end }}
+{{ define "description" }}{{ .Params.description | default .Summary }}{{ end }}
+
+
+{{ define "main" }}
+<h1 id=site-title>bookshelf</h1>
+
+<div class="bookshelf">
+{{ range .Resources.ByType "image" }}
+<div class="book">
+  <img src="{{ .RelPermalink }}" alt="{{ .Name }}">
+  </div>
+{{ end }}
+</div>
+
+{{end}}
