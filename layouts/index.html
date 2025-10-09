@@ -5,6 +5,16 @@
 
   <p>I'm a Research Fellow at <a href="https://vidhilegalpolicy.in">Vidhi</a>. Most of the time, I'm <a href="/work/">working</a> on building the rule of law in India by producing research, advising government departments, and helping draft legislation. I think a lot about legal realism, software, and economics.</p>
 
+  <div class="subscribe">
+    <form action="https://buttondown.com/api/emails/embed-subscribe/nihalsahu" method="post" target="popupwindow"
+        onsubmit="window.open('https://buttondown.com/nihalsahu', 'popupwindow')" class="buttondown-form">
+        <label for="bd-email">Join my mailing list:</label>
+        <input type="email" name="email" style="display:inline" placeholder="you@example.com" id="bd-email" />
+        <input type="submit" style="display:inline" value="Subscribe" />
+    </form>
+</div>
+
+
   <h3>Selected Writing</h3>
   {{ range where (where .Site.RegularPages "Layout" "post") "Params.featured" true }}
     <div class="essay">

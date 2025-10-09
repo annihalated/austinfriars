@@ -2,16 +2,18 @@
 
 <h1 id=site-title>{{ .Title }}</h1>
 
-      {{ .Content }}
-        <div class="posts-container">
-          {{ range .Pages.ByDate.Reverse }}
-            <div class="post">
-                <h3><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h3>
-                <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "Jan 2006" }}</time>
+{{ .Content }}
 
-                   <!-- <span class=post-description> {{ .Params.Description | markdownify }} </span> -->
-              </div>
-          {{ end }}
-        </div>
-       
+<div class="posts-container">
+  {{ range .Pages.ByDate.Reverse }}
+  <div class="post">
+    <h3><a href="{{ .Permalink }}">{{ .Params.Title }}</a></h3>
+    <time datetime="{{ .Date.Format " 2006-01-02" }}">{{ .Date.Format "Jan 2006" }}</time>
+
+    <!-- <span class=post-description> {{ .Params.Description | markdownify }} </span> -->
+  </div>
+  {{ end }}
+</div>
+<hr>
+{{ partial "subscribe.html" }}
 {{ end }}

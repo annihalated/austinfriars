@@ -210,7 +210,6 @@ time {
 }
 
 form.buttondown-form input[type=email] {
-  margin: 0 .3em;
   outline: 0;
   border: 0;
   width: 14em;
@@ -222,16 +221,16 @@ form.buttondown-form input[type=email] {
 }
 
 form.buttondown-form input[type=submit] {
-  padding: 0;
-  background: none !important;
+  padding: 5px;
+  background: #4477EE !important;
   box-shadow: none;
-  color: #6699EE;
+  color: white;
+  font-size: 0.9rem;
   border-top: none;
   border-left: none;
 
   border-right: none;
   border-bottom: none;
-  margin-bottom: -1px;
   cursor: pointer;
 
 }
@@ -291,33 +290,6 @@ div.bookshelf .book::after {
   }
 
 
-  form.buttondown-form input[type=email] {
-    display: block;
-    text-align: center;
-    outline: 0;
-    margin: 1em auto;
-    border: 0;
-    padding: 0;
-    background: 0 0;
-    border-bottom: 1px dotted #ccc;
-    color: #b9b9b9;
-    border-bottom-color: #555;
-  }
-
-  form.buttondown-form input[type=submit] {
-    padding: 0;
-    background: none !important;
-    box-shadow: none;
-    color: #6699EE;
-    border-top: none;
-    border-left: none;
-
-    border-right: none;
-    border-bottom: none;
-    margin-bottom: -1px;
-    cursor: pointer;
-
-  }
 }
 
 @media (prefers-color-scheme: dark) {
