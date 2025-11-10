@@ -7,7 +7,7 @@
   <header>
     <h1>{{ .Title }}</h1>
       {{ if .Date }}
-    <div class="right">
+    <div>
       <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2006" }}</time>
     </div>
       {{ end }}
@@ -16,7 +16,7 @@
     <!-- {{ end }} -->
     <!-- <time datetime="{{ .Date.Format "2006-01-02" }}">{{ .Date.Format "January 2, 2006" }}</time> -->
   </header>
-  
+
   <div class="content">
     {{ .Content }}
   </div>

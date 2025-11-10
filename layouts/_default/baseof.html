@@ -19,20 +19,20 @@
   {{ with .OutputFormats.Get "rss" }}
   {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
 {{ end }}
-  <script 
- defer 
+  <script
+ defer
  src="https://assets.onedollarstats.com/stonks.js"
 ></script>
   {{ block "header" . }}{{ end }}
 </head>
 
 <body>
-   <div class="center">
+   <nav>
     <small>
-    <a href="/">home</a> • <a href="/writing">writing</a> • <a href="/work">work</a> • <a href="/bookshelf">bookshelf</a> • <a href="/contact">contact</a> 
+    <a href="/">home</a> • <a href="/writing">writing</a> • <a href="/work">work</a> • <a href="/bookshelf">bookshelf</a> • <a href="/contact">contact</a>
     </small>
-  </div>
-  
+   </nav>
+
   <br>
 
 {{ block "main" . }}{{ end }}
