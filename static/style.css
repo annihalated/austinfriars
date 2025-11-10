@@ -283,27 +283,3 @@ div.bookshelf .book::after {
         grid-template-columns: repeat(2, 1fr);
     }
 }
-
-@media (prefers-color-scheme: dark) {
-    body {
-        background-color: var(--dark-background-color);
-        color: var(--dark-text-color);
-    }
-    a,
-    a:visited {
-        text-decoration: none;
-        color: #6699ee;
-        border-bottom: 1px dotted #47e;
-        margin-bottom: -2px;
-    }
-    #home a,
-    #home a:visited {
-        color: var(--dark-text-color);
-        border-bottom: 1px dotted #bbb;
-        margin-bottom: -2px;
-    }
-
-    img.invert {
-        filter: invert(80%);
-    }
-}
