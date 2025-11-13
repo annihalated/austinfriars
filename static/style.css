@@ -1,239 +1,245 @@
-@import url("https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap");
+@import url('https://fonts.googleapis.com/css2?family=Source+Serif+4:ital,opsz,wght@0,8..60,200..900;1,8..60,200..900&display=swap');
 
 :root {
-    --paragraph-font-family:
-        system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
-        Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue",
-        sans-serif;
-    --base-font-size: 15px;
-    --dark-background-color: #222;
-    --dark-text-color: #dddddd;
-}
-
-nav a {
-    font-size: 17px;
+  --paragraph-font-family: "Source Serif 4", Georgia, serif;
+  --base-font-size: 16.6px;
+  --dark-background-color: #222;
+  --dark-text-color: #DDDDDD;
 }
 
 * {
-    box-sizing: border-box;
+  box-sizing: border-box;
 }
 
 body {
-    font-family: var(--paragraph-font-family);
-    max-width: 670px;
-    min-width: 0;
-    margin-left: 3rem;
-    -webkit-font-smoothing: antialiased;
-    -moz-osx-font-smoothing: antialiased;
-    font-size: var(--base-font-size);
-    margin-top: 3rem;
-    padding: 0.9em;
-    padding-bottom: 50px;
+  font-family: var(--paragraph-font-family); 
+  max-width: 670px;
+  min-width: 0;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: antialiased;
+  margin: 0 auto;
+  font-size: var(--base-font-size);
+  margin-top: 1rem;
+  padding: 0.9em;
+  padding-bottom: 50px;
 }
 
 p {
-    line-height: 1.5;
+  line-height: 1.5;
 }
 
 small {
-    font-size: smaller;
+  font-size: smaller;
 }
 
-blockquote p,
-blockquote li {
-    line-height: 1.35;
+blockquote p, blockquote li {
+  line-height: 1.35;
 }
 
 img {
-    max-height: 100%;
-    max-width: 100%;
-    display: block;
+  max-height: 100%;
+  max-width: 100%;
+  display: block;
+  margin: 0 auto;
 }
 
 figcaption {
-    /*text-align: center;*/
-    margin: 5px 0 0;
-    font-style: italic;
-    font-size: smaller;
+  text-align: center;
+  margin: 5px 0 0;
+  font-style: italic;
+  font-size: smaller;
 }
 
 .footnotes {
-    font-size: smaller;
+  font-size: smaller;
 }
 
-.footnotes p,
-.footnotes li {
-    line-height: 140%;
+.footnotes p, .footnotes li {
+  line-height: 140%;
 }
 ol {
-    list-style: decimal;
+  list-style: decimal;
 }
 ul {
-    list-style: disc;
+  list-style: disc;
 }
-ol,
-ul {
-    padding: 0;
-    margin-left: 1.5em;
+ol, ul {
+  padding: 0;
+  margin-left: 1.5em;
 }
 
-p {
-    margin: 10px 0 10px;
+p { 
+  margin: 10px 0 10px;
 }
 /* Heading Sizes */
 
 #site-title {
-    font-size: 2em;
-    margin: 15px 0 25px;
+  font-size: 2em;
+  margin: 15px 0 25px;
 }
+
 
 h1 {
-    font-size: 2em;
-    margin: 30px 0 15px;
-    /*text-align: center;*/
+  font-size: 2.4em;
+  margin: 30px 0 15px;
+  text-align: center;
 }
 
+
 h2 {
-    font-size: 1.4em;
-    margin: 17px 0 10px;
+  font-size: 1.4em;
+  margin: 17px 0 10px;
 }
 
 h3 {
-    font-size: 0.9em;
-    margin: 15px 0 5px;
+  font-size: .9em;
+  margin: 15px 0 5px;
 }
 
 .essay h2 {
-    margin: 15px 0 0px;
+  margin: 15px 0 0px;
 }
 
-h1,
-h2,
-h3 {
-    font-family: var(--paragraph-font-family);
+h1, h2, h3 {
+  font-family: Helvetica, Arial, sans-serif; 
 }
 
-ul,
-li {
-    padding: 0;
-    margin-top: 0.7rem;
+ul, li {
+  padding: 0;
+  margin-top: 0.7rem;
 }
 
-a,
-a:visited {
-    color: #2255cc;
-    text-decoration: none;
-    border-bottom: 1px dotted #222;
-    margin-bottom: -1px;
+a, a:visited {
+  color: #2255CC;
+  text-decoration: none;
+  border-bottom: 1px dotted #222;
+  margin-bottom: -1px;
 }
 #home p {
-    margin-top: 5px;
+  margin-top: 5px;
 }
-#home a,
-#home a:visited {
-    color: #222222;
+#home a, #home a:visited {
+  color: #222222;
 }
 
 /* Quotes */
 blockquote {
-    margin-right: 2em;
-    margin-left: 0.6em;
-    border-left: 2px solid #ccc;
-    padding-left: 0.8em;
-    font-size: 0.9em;
+  margin-right: 2em;
+  margin-left: .6em;
+  border-left: 2px solid #ccc;
+  padding-left: .8em;
+  font-size: .9em;
 }
 
 /* Code blocks */
-pre {
-    white-space: pre-wrap;
-    margin-left: 1em;
+pre { 
+  white-space: pre-wrap; 
+  margin-left: 1em;
 }
 
 hr {
-    display: block;
-    text-align: center;
-    margin: 25px auto;
-    width: 100%;
-    border: none;
+  display: block;
+  text-align: center;
+  margin: 25px auto;
+  width: 100%;
+  border: none;
 }
 
 hr:after {
-    content: "\2042";
-    font-size: 1em;
+  content: "\2042";
+  font-size: 1em;
 }
 
 footer p {
-    text-align: right;
-    font-size: 0.8rem;
+  text-align: right;
+  font-size: 0.8rem;
 }
 
 .right {
-    text-align: right;
+  text-align: right;
 }
 
 .left {
-    text-align: left;
+  text-align: left;
 }
 
+.center {
+  text-align: center;
+}
+
+.posts-container {
+  margin: 0 auto;
+  width: fit-content;
+}
 
 .quote-author {
-    text-align: right;
-    padding-right: 2em;
+  text-align:right; 
+  padding-right: 2em;
 }
 .post {
-    display: flex;
-    justify-content: space-between;
-    gap: 3em;
-    align-items: baseline;
+  display: flex;
+  justify-content: space-between;
+  gap: 3em;
+  align-items: baseline;
 }
 
 .post time {
-    width: 6em;
-    flex-shrink: 0;
-    text-align: right;
+  width: 6em;
+  flex-shrink: 0;
+  text-align: right;
 }
 
 .post h3 {
-    margin: 0.8em 0;
+  margin: 0.8em 0;
+}
+
+time {
+  font-size: 0.9em;
+  letter-spacing: 0em;
+  color: #777;
+  text-transform: uppercase;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 
 #home h3 {
-    text-transform: uppercase;
-    letter-spacing: 0.02em;
-    opacity: 0.5;
-    margin: 30px 0 10px;
+  text-transform: uppercase;
+  letter-spacing: 0.02em;
+  opacity: 0.5;
+  margin: 30px 0 10px;
 }
 
-form.buttondown-form input[type="email"] {
-    outline: 0;
-    border: 0;
-    width: 14em;
-    padding: 0;
-    background: 0 0;
-    border-bottom: 1px dotted #ccc;
-    color: #b9b9b9;
-    border-bottom-color: #555;
+form.buttondown-form input[type=email] {
+  outline: 0;
+  border: 0;
+  width: 14em;
+  padding: 0;
+  background: 0 0;
+  border-bottom: 1px dotted #ccc;
+  color: #b9b9b9;
+  border-bottom-color: #555;
 }
 
-form.buttondown-form input[type="submit"] {
-    padding: 5px;
-    background: #4477ee !important;
-    box-shadow: none;
-    color: white;
-    font-size: 0.9rem;
-    border-top: none;
-    border-left: none;
-    font-family: var(--paragraph-font-family)
-    border-right: none;
-    border-bottom: none;
-    cursor: pointer;
+form.buttondown-form input[type=submit] {
+  padding: 5px;
+  background: #4477EE !important;
+  box-shadow: none;
+  color: white;
+  font-size: 0.9rem;
+  border-top: none;
+  border-left: none;
+  font-family: Helvetica, Arial, sans-serif;
+  border-right: none;
+  border-bottom: none;
+  cursor: pointer;
+
 }
 div.bookshelf {
     display: grid;
     grid-template-columns: repeat(auto-fill, minmax(200px, 1fr));
     gap: 1rem;
 }
+
 
 div.bookshelf .book {
     position: relative;
@@ -251,35 +257,59 @@ div.bookshelf img {
 }
 
 div.bookshelf .book::after {
-    content: "";
+    content: '';
     position: absolute;
     inset: 0;
-    background: linear-gradient(
-        to right,
-        rgba(0, 0, 0, 0.02) 0%,
-        rgba(0, 0, 0, 0.05) 0.75%,
-        rgba(255, 255, 255, 0.5) 1%,
-        rgba(255, 255, 255, 0.6) 1.3%,
-        rgba(255, 255, 255, 0.5) 1.4%,
-        rgba(255, 255, 255, 0.3) 1.5%,
-        rgba(255, 255, 255, 0.3) 2.4%,
-        rgba(0, 0, 0, 0.05) 2.7%,
-        rgba(0, 0, 0, 0.05) 3.5%,
-        rgba(255, 255, 255, 0.3) 4%,
-        rgba(255, 255, 255, 0.3) 4.5%,
-        rgba(244, 244, 244, 0.1) 5.4%,
-        rgba(244, 244, 244, 0.1) 99%,
-        rgba(144, 144, 144, 0.2) 100%
-    );
+    background: linear-gradient(to right,
+                        rgba(0,0,0,0.02) 0%,
+                        rgba(0,0,0,0.05) 0.75%,
+                        rgba(255,255,255,0.5) 1.0%,
+                        rgba(255,255,255,0.6) 1.3%,
+                        rgba(255,255,255,0.5) 1.4%,
+                        rgba(255,255,255,0.3) 1.5%,
+                        rgba(255,255,255,0.3) 2.4%,
+                        rgba(0,0,0,0.05) 2.7%,
+                        rgba(0,0,0,0.05) 3.5%,
+                        rgba(255,255,255,0.3) 4%,
+                        rgba(255,255,255,0.3) 4.5%,
+                        rgba(244,244,244,0.1) 5.4%,
+                        rgba(244,244,244,0.1) 99%,
+                        rgba(144,144,144,0.2) 100%);
     box-shadow: inset 0 -1px 4px rgba(0, 0, 0, 0.12);
     pointer-events: none;
 }
 
+
 @media screen and (max-width: 768px) {
-    body {
-        margin-left: 0.3rem;
-    }
-    div.bookshelf {
-        grid-template-columns: repeat(2, 1fr);
-    }
+  body {
+    font-size: 16px;
+  }
+
+   div.bookshelf {
+    grid-template-columns: repeat(2, 1fr);
+  }
+
+
+}
+
+@media (prefers-color-scheme: dark) {
+  body {
+    background-color: var(--dark-background-color);
+    color: var(--dark-text-color);
+  }
+  a, a:visited{
+    text-decoration: none;
+    color: #6699EE;
+    border-bottom: 1px dotted #47e;
+    margin-bottom: -2px;
+  }
+  #home a, #home a:visited {
+    color: var(--dark-text-color);
+    border-bottom: 1px dotted #bbb;
+    margin-bottom: -2px;
+  }
+
+  img.invert {
+    filter: invert(80%);
+  }
 }
