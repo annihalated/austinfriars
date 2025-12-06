@@ -31,4 +31,3 @@ And we are still young.
 
 [^1]: Korematsu v. United States, 323 U.S. 214 (1944) (Jackson, J., dissenting).
 [^2]: *See* MP Jain and SN Jain, Principles of Administrative Law (9th ed. 2021) (chapter on “Administrative Directions”).
-

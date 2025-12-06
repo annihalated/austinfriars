@@ -14,9 +14,9 @@
 {{- end -}}
 
 <figure>
-  <img 
-    src="{{ $src }}" 
-    alt="{{ .Text }}" 
+  <img
+    src="{{ $src }}"
+    alt="{{ .Text }}"
     class="{{ if in .Title "{invert}" }}invert{{ end }}">
   {{- $title := replace .Title "{invert}" "" -}}
   {{- if $title }}
