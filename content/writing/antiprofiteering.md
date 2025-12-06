@@ -4,7 +4,7 @@ date: 2025-08-26
 layout: post
 featured: true
 url: /antiprofiteering/
-description: 
+description: gain-of-function research on tax cuts
 ---
 
 In practically every country on earth, the way a tax cut might work is this: 
