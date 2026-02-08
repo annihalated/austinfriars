@@ -3,6 +3,7 @@ title: What I've been reading (September 2022)
 date: 2022-09-04
 layout: post
 url: /reading-2022-09/
+description: "book hauls • New Labour memoirs • HPMOR regrets • Raj Chetty on social mobility • lepidopterists and the ministry of health • relearning math"
 ---
 
 ## Book Haul

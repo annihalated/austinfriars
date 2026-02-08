@@ -3,6 +3,7 @@ title: What I've been reading (July 2024)
 date: 2024-08-03
 layout: post
 url: /reading-july-2024/
+description: "Whole Earth Discipline rekindled my reading habit • RAND in Santa Monica • digital competition as license raj • competitive exams and unproductive investment • the Ezra Klein rabbit hole"
 ---
 
 I have been reading very little over the last few months. That is, until I found **[Whole Earth Discipline by Stewart Brand](https://www.goodreads.com/book/show/6411373-whole-earth-discipline)** on Patrick Collison's [bookshelf](https://patrickcollison.com/bookshelf) list. Brand's argument is directed at the Green movement, arguing that environmentalists should be pro-nuclear, pro-density, pro-GMOs, and pro-geoengineering. He also made me finally [appreciate](https://x.com/annihalated/status/1816596170904600626) [trees](https://en.wikipedia.org/wiki/Methuselah_%28pine_tree%29#Status_as_oldest_known_tree). Every section is beautiful, in-depth, contains references to a ton of interesting sources, and single-handedly rekindled my reading habit. (I've tweeted some [quotes](https://x.com/annihalated/status/1815788963187310627).)

@@ -2,10 +2,11 @@
 title: "A missed opportunity: New drugs Bill is old medicine in new bottle"
 date: 2022-09-28
 layout: post
-draft: true
 url: /drugsbill/
 description: "The drafters have missed an opportunity to modernise the regulatory structure for drugs by maintaining a status quo"
 ---
+*Originally published in the [Deccan Herald](https://www.deccanherald.com/opinion/a-missed-opportunity-new-drugs-bill-is-old-medicine-in-new-bottle-1149178.html), September 2022.*
+
 The colonial Drugs and Cosmetics Act, 1940 is finally on its way out as the draft of its replacement, Drugs, Medical Devices and Cosmetics Bill, 2022, was published by the Ministry of Health and Family Welfare (MoHFW) after a longstanding demand for new legislation to regulate drugs. The new Bill, however, falls short on several counts.
 
 The drafters have missed an opportunity to modernise the regulatory structure for drugs by maintaining a status quo. The old regulation has already proved ineffective in ensuring the quality and safety of drugs marketed in India. Instead of rethinking the existing regulatory architecture, the draft Bill, rather unimaginately, merely brings under its umbrella a multiverse of provisions from secondary legislations.

@@ -3,28 +3,33 @@
 
 <div id="home">
 
-  <p>I'm a Research Fellow at <a href="https://vidhilegalpolicy.in">Vidhi</a>. Most of the time, I'm <a href="/work/">working</a> on building the rule of law in India by producing research, advising government departments, and helping draft legislation. I think a lot about legal realism, software, and economics.</p>
+  <p>I'm a Research Fellow at <a href="https://vidhilegalpolicy.in">Vidhi</a>. Most of the time, I'm working on building the rule of law in India by producing research, advising government departments, and helping draft legislation. I think a lot about legal realism, software, and economics.</p>
 
   <div class="subscribe">
     <form action="https://buttondown.com/api/emails/embed-subscribe/nihalsahu" method="post" target="popupwindow"
         onsubmit="window.open('https://buttondown.com/nihalsahu', 'popupwindow')" class="buttondown-form">
         <label for="bd-email">Join my mailing list:</label>
-        <input type="email" name="email" style="display:inline" placeholder="you@example.com" id="bd-email" />
-        <input type="submit" style="display:inline" value="Subscribe" />
+        <input type="email" name="email" placeholder="you@example.com" id="bd-email" />
+        <input type="submit" value="Subscribe" />
     </form>
-</div>
-
+  </div>
 
   <h3>Selected Writing</h3>
-  {{ range where (where .Site.RegularPages "Layout" "post") "Params.featured" true }}
+  {{ range (where (where .Site.RegularPages "Layout" "post") "Params.featured" true).ByDate.Reverse }}
     <div class="essay">
     <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
     <p>{{ .Params.description }}</p>
     </div>
   {{ end }}
 
-  <p class="right"><a href="/writing/">Read more.</a></p>
-</div>
 
+  <h3>Research</h3>
+  <p><a href="https://vidhilegalpolicy.in/eolctoolkit/faq">Expert FAQs on end-of-life care</a> · <a href="https://vidhilegalpolicy.in/research/holding-healthcare-providers-accountable-regulating-practitioners-through-medical-councils/">Working of medical councils</a> · <a href="https://vidhilegalpolicy.in/research/holding-healthcare-providers-accountable-regulation-of-healthcare-facilities/">Healthcare facilities licensing</a> · <a href="https://vidhilegalpolicy.in/research/holding-healthcare-providers-accountable-consumer-civil-and-criminal-mechanisms/">Court data on medical negligence</a> · <a href="https://doi.org/10.1080/24730580.2021.1941689">New framework for Indian religion jurisprudence</a></p>
+
+  <h3>Speaking</h3>
+  <p><a href="https://youtu.be/0j6WzCjleG0">Panel on euthanasia</a>, International Literature Festival of Kerala, 2024</p>
+  <p><a href="https://www.youtube.com/live/Yi3rGbCZvrA?si=C6kU5q2Fzv4KzmcP&t=9560">DPHICON</a>, Tamil Nadu Public Health Conference, 2025</p>
+
+</div>
 
 {{ end }}

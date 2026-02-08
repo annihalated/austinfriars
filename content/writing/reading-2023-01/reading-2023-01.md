@@ -3,6 +3,7 @@ title: Wisconsin's weird partial veto (and other things)
 date: 2023-01-23
 layout: post
 url: /reading-2023-01/
+description: "Wisconsin's partial veto • data federalism • Pew on religion in India • Caravan profiles • OMB Circular A-4"
 ---
 
 Since 1930, Wisconsin's constitution has allowed the Governor to veto appropriations bills "in whole or in part": a phrase the Wisconsin Supreme Court has interpreted to mean that the Governor can strike out individual words in a manner that produces [strange results](https://apnews.com/article/evers-veto-400-years-wisconsin-school-funding-67a7847e4a24ea86f7d16123356f770d):

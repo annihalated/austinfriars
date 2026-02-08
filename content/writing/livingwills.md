@@ -1,11 +1,12 @@
 ---
-title: Living wills implementation lags in India 
+title: Living wills implementation lags in India
 date: 2024-04-04
-draft: true
 layout: post
 url: /livingwills/
 description: "State governments are reluctant to wade in; the area is complex and requires attention from medical and legal experts"
 ---
+*Originally published in [The Hindu](https://www.thehindu.com/opinion/op-ed/living-wills-implementation-lags-in-india/article68025071.ece), April 2024.*
+
 In early March this year, 30 people in Thrissur in Kerala executed living wills. Living wills have been legal since 2018, when the Supreme Court of India created a process to allow terminally-ill patients, with no hope of a cure, to withhold or withdraw treatment and die with dignity. Since patients may not be able to communicate their wishes for a variety of reasons, including being unconscious or suffering from dementia, living wills allow them to make choices about future medical care. Six years after the judgment, however, the Court’s process is unavailable in most of India. Officials remain unlikely to implement the procedure without direct orders and guidance from State governments.
 
 ## The Court’s procedure

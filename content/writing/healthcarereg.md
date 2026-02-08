@@ -2,11 +2,10 @@
 title: The state of healthcare regulation
 date: 2023-12-12
 layout: post
-url: /courts/
-draft: true
-description: "making indian courts better • a review of the literature"
+url: /healthcarereg/
+description: "poorly maintained registers • opaque regulators • inconsistent standards • rethinking regulation as a tool for improving health coverage"
 ---
-This was published in the Times of India under the title "What ails India’s approach to Universal Health Coverage". 
+*Originally published in the [Times of India](https://timesofindia.indiatimes.com/india/what-ails-indias-approach-to-universal-health-coverage/articleshow/105917461.cms), December 2023.*
 
 From poorly maintained registers of doctors to opaque style of functioning of regulatory bodies, a study by the Vidhi Centre for Legal Policy on Universal Health Coverage Day finds how the present system ends up posing hassles for doctors and patients alike
 
