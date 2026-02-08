@@ -56,7 +56,7 @@ For illustrative purposes, and to really show you what this kind of argument loo
 >
 > **Lawyer**: I thought you wanted people to read your newsletter. 
 >
-> **Nihal**:Fair enough. So, we can agree that components (1-4) are met here, but I disagree about (5). It's not pursuant to the completion of the ride, but merely pursuant to the *acceptance* of the ride. Also, what if I agree on the app to pay the tip *before* the ride, in cash, to the driver? What if I agree to some arrangement that circumvents this altogether? 
+> **Nihal**: Fair enough. So, we can agree that components (1-4) are met here, but I disagree about (5). It's not pursuant to the completion of the ride, but merely pursuant to the *acceptance* of the ride. Also, what if I agree on the app to pay the tip *before* the ride, in cash, to the driver? What if I agree to some arrangement that circumvents this altogether? 
 >
 > **Lawyer:** Nihal, you don't need to steelman Chinmay's case for him, you know? You know fully well that in both these cases, the most likely outcomes are as follows: (1) the regulator/state-government will issue a circular clarifying that this is illegal; or (2) if it goes to court before the regulator decides to close your loophole, the judge will take a long look at your weird hypertechnical argument before deciding that you are clearly trying to defeat the intention of a legislation, which was to *not allow* price surges, implicitly or explicitly.
 >

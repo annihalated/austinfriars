@@ -26,7 +26,7 @@ Nicholas Decker has a [nice summary](https://nicholasdecker.substack.com/p/whats
 - If the judicial system does not work, firms have no redress against
   the state. When the state takes an illegal action against a firm, it
   cannot go to court and quickly get the action overturned. The firm,
-  therefore, does not recieve the protection of the law. This problem
+  therefore, does not receive the protection of the law. This problem
   is solved through cronyism and corruption. The firm maintains
   relationships with politicians and bureaucrats to ensure that
   favourable conditions are obtained.

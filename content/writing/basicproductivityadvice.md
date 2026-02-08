@@ -22,7 +22,6 @@ In one of my early internships, I worked for a bit with a team that spent months
 The reason most people don't do this is either **(a)** because they spend their time moving from document to document and completing tasks instead of exercising some autonomy; **(b)** they feel like it would be precocious and like, bad form, to tell someone that you've read the client requirements and that they haven't. This means that you will progress down a path of pig-headed path dependency that should eventually lead to someone, somewhere losing the [mandate of heaven](https://en.wikipedia.org/wiki/Mandate_of_Heaven).
 
 Don't do this. Think very hard about each project and each action. Document those thoughts relentlessly. And if possible, ask people when you don't understand why you're doing something. It's entirely possible they're making it up. In fact, they're probably all making it up, except for the select few who join the cult of "I care enough to stare at a wall".
-t
 ## You have to actually do them
 
 I am one of those people who finds it difficult to work unless I've really decided to. And I find it incredibly difficult to make progress on something unless I've really invested effort into understanding it. This makes distractions and really, anything that prevents focused work anathema.

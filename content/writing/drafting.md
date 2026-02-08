@@ -17,7 +17,7 @@ When you find the correct abstractions, things fall into place. When you have th
 >
 > I mean “abstraction” in a precise sense, i.e., ‘the quality of dealing with ideas rather than events.’ It is by abstracting that we create general rules from specific disputes. It is by reasoning about those abstractions that we try to maintain consistency when comparable situations arise. Without those abstractions, you are just following your intuitions.
 >
-> Surely, the abstractions and our reasoning about them is driven fundamentally by intuition. But the fact that they are intuitions about the abstractions, as opposed to an intutition about "who should win",  introduces some rigour to the legal system.
+> Surely, the abstractions and our reasoning about them is driven fundamentally by intuition. But the fact that they are intuitions about the abstractions, as opposed to an intuition about "who should win",  introduces some rigour to the legal system.
 >
 > When your abstractions are successful, that means that your judges are reasoning about the abstractions, not principally about the case before them. When they fail, courts (where professional judges apply laws) devolve into durbars (where the sovereign dispenses justice).
 

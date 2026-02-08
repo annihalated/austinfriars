@@ -20,7 +20,7 @@ It's been a long time since I went shopping in a physical bookstore - highly rec
 
 ## HPMOR
 
-I've also been reading a lot of fiction. However, instead of rereading my sparse collection of literary fiction or picking up a new Murakami, I regret to inform you that I have uncharacteristically plunged headfirst into Elizer Yudkowsky's [Harry Potter and the Methods of Rationality](https://hpmor.com/) (link for [mobile](https://www.lesswrong.com/hpmor) users). It's a fanfiction where Harry Potter is a very, very annoying but *funny* hyper rationalist eleven year old with ambitions of remaking the world. I don't know what the general standards for writing in fanfiction are, but this is not impressive. Part of me regrets this - part of me is enjoying the guilty pleasure. I feel like I will give up midway, but I'd recommend you at least try it - though you need a *lot* of tolerance for pretentious characters.
+I've also been reading a lot of fiction. However, instead of rereading my sparse collection of literary fiction or picking up a new Murakami, I regret to inform you that I have uncharacteristically plunged headfirst into Eliezer Yudkowsky's [Harry Potter and the Methods of Rationality](https://hpmor.com/) (link for [mobile](https://www.lesswrong.com/hpmor) users). It's a fanfiction where Harry Potter is a very, very annoying but *funny* hyper rationalist eleven year old with ambitions of remaking the world. I don't know what the general standards for writing in fanfiction are, but this is not impressive. Part of me regrets this - part of me is enjoying the guilty pleasure. I feel like I will give up midway, but I'd recommend you at least try it - though you need a *lot* of tolerance for pretentious characters.
 
 ## New Labour
 
