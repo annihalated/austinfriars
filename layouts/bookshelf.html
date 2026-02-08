@@ -9,7 +9,7 @@
 <div class="bookshelf">
 {{ range .Resources.ByType "image" }}
 <div class="book">
-  <img src="{{ .RelPermalink }}" alt="{{ .Name }}">
+  <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy" width="226" height="346">
   </div>
 {{ end }}
 </div>
