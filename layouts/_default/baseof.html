@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang=en>
+<html lang="en">
 <head>
   <title>{{ block "title" . }}nihalsahu.net{{ end }}</title>
   <meta charset="utf-8">
@@ -8,6 +8,7 @@
   <meta property="og:site_name" content="nihalsahu.net">
   <meta property="og:url" content="{{ .Permalink }}">
   <meta property="og:description" content="{{ block "description" . }}Nihal Sahu's personal website.{{ end }}">
+  <meta name="description" content="{{ block "meta-description" . }}{{ .Params.description | default .Summary | default "Nihal Sahu's personal website." }}{{ end }}">
   <meta name="twitter:card" content="summary">
   <meta name="twitter:site" content="@annihalated">
   <link rel="canonical" href="{{ .Permalink }}">
@@ -16,26 +17,26 @@
   <link rel="icon" type="image/png" sizes="32x32" href="/img/favicon-32x32.png">
   <link rel="icon" type="image/png" sizes="16x16" href="/img/favicon-16x16.png">
   <link rel="manifest" href="/site.webmanifest">
+  <link rel="preload" href="/fonts/source-serif-4-v14-latin-regular.woff2" as="font" type="font/woff2" crossorigin>
   <link rel="stylesheet" href="/style.css">
   {{ with .OutputFormats.Get "rss" }}
   {{ printf `<link rel=%q type=%q href=%q title=%q>` .Rel .MediaType.Type .Permalink site.Title | safeHTML }}
 {{ end }}
-  <script 
- defer 
- src="https://assets.onedollarstats.com/stonks.js"
-></script>
   {{ block "header" . }}{{ end }}
 </head>
 
 <body>
-   <div class="center">
+  <a href="#main-content" class="skip-link">Skip to content</a>
+   <nav class="center">
     <small>
-    <a href="/">home</a> • <a href="/writing">writing</a> • <a href="/bookshelf">bookshelf</a> • <a href="/contact">contact</a> 
+    <a href="/">home</a> • <a href="/writing">writing</a> • <a href="/bookshelf">bookshelf</a> • <a href="/contact">contact</a> • <a href="/index.xml">rss</a>
     </small>
-  </div>
+  </nav>
   
   <br>
 
+<main id="main-content">
 {{ block "main" . }}{{ end }}
+</main>
 </body>
 </html>

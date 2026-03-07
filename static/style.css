@@ -29,6 +29,20 @@
     --dark-text-color: #dddddd;
 }
 
+.skip-link {
+    position: absolute;
+    left: -9999px;
+    top: 0;
+    z-index: 999;
+    padding: 0.5em 1em;
+    background: #222;
+    color: #fff;
+}
+
+.skip-link:focus {
+    left: 0;
+}
+
 * {
     box-sizing: border-box;
 }

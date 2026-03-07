@@ -9,7 +9,11 @@
 <div class="bookshelf">
 {{ range .Resources.ByType "image" }}
 <div class="book">
-  <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy" width="226" height="346">
+  {{ $img := .Resize "452x webp" }}
+  {{ $name := path.BaseName .Name }}
+  {{ $parts := split $name "_" }}
+  {{ $alt := delimit $parts " " | strings.Title }}
+  <img src="{{ $img.RelPermalink }}" alt="{{ $alt }}" loading="lazy" width="226" height="{{ math.Round (div (mul 226.0 (float $img.Height)) (float $img.Width)) }}">
   </div>
 {{ end }}
 </div>

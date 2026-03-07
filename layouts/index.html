@@ -1,18 +1,11 @@
 {{ define "main" }}
-<h1 id=site-title>Nihal Sahu</h1>
+<h1 id=site-title>{{ .Title }}</h1>
 
 <div id="home">
 
-  <p>I'm a Research Fellow at <a href="https://vidhilegalpolicy.in">Vidhi</a>. Most of the time, I'm working on building the rule of law in India by producing research, advising government departments, and helping draft legislation. I think a lot about legal realism, software, and economics.</p>
+  {{ .Content }}
 
-  <div class="subscribe">
-    <form action="https://buttondown.com/api/emails/embed-subscribe/nihalsahu" method="post" target="popupwindow"
-        onsubmit="window.open('https://buttondown.com/nihalsahu', 'popupwindow')" class="buttondown-form">
-        <label for="bd-email">Join my mailing list:</label>
-        <input type="email" name="email" placeholder="you@example.com" id="bd-email" />
-        <input type="submit" value="Subscribe" />
-    </form>
-  </div>
+  {{ partial "subscribe.html" }}
 
   <h3>Selected Writing</h3>
   {{ range (where (where .Site.RegularPages "Layout" "post") "Params.featured" true).ByDate.Reverse }}

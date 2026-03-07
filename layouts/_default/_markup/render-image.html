@@ -17,7 +17,8 @@
   <img
     src="{{ $src }}"
     alt="{{ .Text }}"
-    class="{{ if in .Title "{invert}" }}invert{{ end }}">
+    class="{{ if in .Title "{invert}" }}invert{{ end }}"
+    loading="lazy">
   {{- $title := replace .Title "{invert}" "" -}}
   {{- if $title }}
     <figcaption>{{ $title }}</figcaption>
