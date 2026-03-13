@@ -51,3 +51,5 @@ One has to practice, frequently, the act of treating people well.
 The effectiveness of practice depends on whether you put in the reps. But whether you put in the reps is influenced by your environment. Writing more is easier when you have an audience. It is harder to write into a void, unless, of course, you have practice doing it. It is harder to practice telling the truth in an environment where dishonesty is rewarded. 
 
 You have to consider the practices that arise from your choices: what’s on your desk, whether your gym bag is packed, how far the guitar is from reach, the quality of the moral judgment of your friends, keeping in mind that you will unconsciously get thousands of reps of the behaviours they incentivise. If you find it difficult to change your environment, consider that you may not have enough practice at doing that, and begin. If you are *unable* to change your environment, you will have to be far more [deliberate](https://davidbessis.substack.com/p/attention-is-all-we-have) with your practice.
+
+*Thanks to [Hiya](https://x.com/jainhiya_) and Raagini for reading drafts and offering comments on this post.*
