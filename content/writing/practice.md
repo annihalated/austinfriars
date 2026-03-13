@@ -7,7 +7,7 @@ featured: true
 description: "the core mechanism • you can practice behaviours, not just skills • identity is downstream of practice • what you end up practicing will often depend on your environment"
 ---
 
-*\[Coauthored with [Judah](http://x.com/joodalooped), who introduced me to the idea and taught me how to practice better*.*\]*
+[Coauthored with [Judah](http://x.com/joodalooped), who introduced me to the idea and taught me how to practice better]
 
 *practice (noun, ˈpraktɪs): repeated exercise in or performance of an activity or skill so as to acquire or maintain proficiency in it*
 
