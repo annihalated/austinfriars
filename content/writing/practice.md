@@ -7,7 +7,7 @@ featured: true
 description: "the core mechanism • you can practice behaviours, not just skills • identity is downstream of practice • what you end up practicing will often depend on your environment"
 ---
 
-[Coauthored with [Judah](http://x.com/joodalooped), who introduced me to the idea and taught me how to practice better.]
+**Coauthored with [Judah](http://x.com/joodalooped), who introduced me to the idea and taught me how to practice better.**
 
 *practice (noun, ˈpraktɪs): repeated exercise in or performance of an activity or skill so as to acquire or maintain proficiency in it*
 
@@ -33,8 +33,11 @@ A productive treatment for maladaptive behaviour is just more reps at acting how
 >
 > "But that's dishonest, I'd be lying to myself."  Your kids will not know to ask: so?
 
-TLP describes the thesis of his blog this way: “...nothing matters more than your will. \[...\] Every choice you make influences your identity, and not the other way around; the sooner you accept this, the sooner you can become the person you want to be. You get to pick who you are. Go pick.” 
+TLP describes the thesis of his blog this way: 
+> ...nothing matters more than your will. \[...\] Every choice you make influences your identity, and not the other way around; the sooner you accept this, the sooner you can become the person you want to be. You get to pick who you are. Go pick.
 
 One has to practice, frequently, the act of treating people well. 
 
-**What you end up practicing will often depend on your environment.** The effectiveness of practice depends on whether you put in the reps. But whether you put in the reps is influenced by your environment. Writing more is easier when you have an audience. It is harder to write into a void, unless, of course, you have practice doing it. It is harder to practice telling the truth in an environment where dishonesty is rewarded. You have to consider the practices that arise from your choices: what’s on your desk, whether your gym bag is packed, how far the guitar is from reach, the quality of the moral judgment of your friends; keeping in mind that you will unconsciously get thousands of reps of the behaviours they incentivise. If you find it difficult to change your environment, consider that you may not have enough practice at doing that, and begin. If you are *unable* to change your environment, you will have to be far more [deliberate](https://davidbessis.substack.com/p/attention-is-all-we-have) with your practice.
+**What you end up practicing will often depend on your environment.** The effectiveness of practice depends on whether you put in the reps. But whether you put in the reps is influenced by your environment. Writing more is easier when you have an audience. It is harder to write into a void, unless, of course, you have practice doing it. It is harder to practice telling the truth in an environment where dishonesty is rewarded. 
+
+You have to consider the practices that arise from your choices: what’s on your desk, whether your gym bag is packed, how far the guitar is from reach, the quality of the moral judgment of your friends; keeping in mind that you will unconsciously get thousands of reps of the behaviours they incentivise. If you find it difficult to change your environment, consider that you may not have enough practice at doing that, and begin. If you are *unable* to change your environment, you will have to be far more [deliberate](https://davidbessis.substack.com/p/attention-is-all-we-have) with your practice.
