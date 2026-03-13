@@ -228,6 +228,7 @@ hr:after {
 }
 
 .content h3 {
+    font-size: 1.1rem;
     margin: 0.9rem 0 0;
     padding-bottom: 0.3rem;
 }
