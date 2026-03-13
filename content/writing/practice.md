@@ -33,7 +33,7 @@ Sometimes this thinking is a useful precursor to practice, but more often it is 
 
 In truth, things are less conceptually complex. Your model of yourself, your felt sense of who you are, the thing that feels irreducibly *you*, arises from what you practice. You didn’t arrive with an identity, fully-formed, and practice it into behaviour; the more likely chain of causation is that you practiced (because of accident, duress, or imitation) a set of behaviours that you now call your identity. 
 
-A productive treatment for maladaptive behaviour is just more reps at acting how you’d prefer. Here’s TLP suggesting this as a strategy to cure narcissism: 
+A productive treatment for maladaptive behaviour is just more reps at acting how you’d prefer. Here’s TLP [suggesting](https://thelastpsychiatrist.com/2009/01/can_narcissism_be_cured.html) this as a strategy to cure narcissism: 
 
 > "I feel like I am playing a part, that I'm in a role. It doesn't feel real."
 >
@@ -41,7 +41,7 @@ A productive treatment for maladaptive behaviour is just more reps at acting how
 >
 > "But that's dishonest, I'd be lying to myself."  Your kids will not know to ask: so?
 
-TLP describes the thesis of his blog this way: 
+TLP [describes](https://thelastpsychiatrist.com/2007/02/just_how_many_drinks_a_day_is.html) the thesis of his blog this way: 
 > ...nothing matters more than your will. \[...\] Every choice you make influences your identity, and not the other way around; the sooner you accept this, the sooner you can become the person you want to be. You get to pick who you are. Go pick.
 
 One has to practice, frequently, the act of treating people well. 
